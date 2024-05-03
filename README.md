@@ -35,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 &emsp;&emsp;
 ![idea](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=IntelliJ%20IDEA&logoColor=black)
@@ -47,8 +47,8 @@
 ![apifox](https://img.shields.io/badge/Apifox-red?logo=Apifox&logoColor=white)
 ![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
 
 <!-- 提交分析 -->
