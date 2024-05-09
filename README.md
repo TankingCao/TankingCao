@@ -10,7 +10,7 @@
   <a href="https://github.com/caolib"><img src="https://img.shields.io/badge/caolib-black?logo=github"></a>
   <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/bin-white?logo=gitee&color=%23C71D23"></a>
   <a href="https://space.bilibili.com/441126797"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-white?logo=bilibili&labelColor=white&color=%23fb7299"></a>
-  <a href="https://caolib.github.io"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Fcaolib.github.io"></a>
+  <a href="https://caolib.netlify.app"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red&link=https%3A%2F%2Fcaolib.github.io"></a>
   <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计"/>
 </br>
 
