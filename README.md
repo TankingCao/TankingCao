@@ -56,14 +56,6 @@
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
 
-<!-- 连续提交代码天数记录 -->
-<p align="center">
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caolib&theme=dark&hide_border=true" />
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
-</p> 
-
-
 <!-- 奖杯 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=caolib&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
