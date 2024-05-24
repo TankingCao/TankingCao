@@ -49,9 +49,12 @@
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caolib&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caolib&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caolib&theme=github_dark)
 
 <!-- 提交分析 -->
-![提交分析](https://repobeats.axiom.co/api/embed/6a670d1dee5fb2993d369b6e71a7313c1d7d157b.svg "Repobeats analytics image")
+<!-- ![提交分析](https://repobeats.axiom.co/api/embed/6a670d1dee5fb2993d369b6e71a7313c1d7d157b.svg "Repobeats analytics image") -->
 
 <!-- 贪吃蛇 -->
 ![snake](https://raw.githubusercontent.com/caolib/caolib/output/github-contribution-grid-snake.svg)
