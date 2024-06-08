@@ -8,7 +8,8 @@
 <!-- 个人资料徽标 -->
 &emsp;&emsp;
 <div align="center">
-    <a href="https://clb.pages.dev"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF-white?logoColor=blue&labelColor=blue&color=red"></a>
+    <a href="https://clb.pages.dev"><img src="https://img.shields.io/badge/blog-学海无涯-white?logoColor=blue&labelColor=blue&color=red"></a>
+        <a href="https://clb.pages.dev"><img src="https://img.shields.io/badge/blog-平凡世界-white?logoColor=blue&labelColor=blue&color=red"></a>
   <a href="https://github.com/caolib"><img src="https://img.shields.io/badge/caolib-black?logo=github"></a>
   <a href="https://gitee.com/clibin"><img alt="Static Badge" src="https://img.shields.io/badge/bin-white?logo=gitee&color=%23C71D23"></a>
   <a href="https://space.bilibili.com/441126797"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-white?logo=bilibili&labelColor=white&color=%23fb7299"></a>
