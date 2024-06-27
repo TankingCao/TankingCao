@@ -24,7 +24,7 @@
 ![maven](https://img.shields.io/badge/maven-%23C71A36?logo=apache%20maven&logoColor=%23C71A36&labelColor=white)
 ![mybatis](https://img.shields.io/badge/mybatis-blue)
 ![mybatisplus](https://img.shields.io/badge/mybatis%20plus-red)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=%234479A1&labelColor=white&color=%234479A1)
 ![redis](https://img.shields.io/badge/redis-%23DC382D?logo=redis&labelColor=white&color=red)
 ![jwt](https://img.shields.io/badge/JWT-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
