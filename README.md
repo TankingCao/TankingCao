@@ -16,40 +16,47 @@
   <img src="https://komarev.com/ghpvc/?username=caolib&label=Views&color=0e75b6&style=flat" alt="访问量统计"/>
 </br>
   <div>&nbsp;</div>
-  
+
+<!-- 各种技术栈和工具等图标 -->
 &emsp;&emsp;
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![spring](https://img.shields.io/badge/spring-white?logo=spring&labelColor=white&color=%236DB33F)
-![springboot](https://img.shields.io/badge/springboot-white?logo=springboot&labelColor=white&color=%236DB33F)
+![Boot](https://img.shields.io/badge/Boot-white?logo=springboot&labelColor=white&color=%236DB33F)
+![Cloud](https://img.shields.io/badge/Cloud-white?logo=spring&labelColor=white&color=%236DB33F)
 ![maven](https://img.shields.io/badge/maven-%23C71A36?logo=apache%20maven&logoColor=%23C71A36&labelColor=white)
 ![mybatis](https://img.shields.io/badge/mybatis-blue)
 ![mybatisplus](https://img.shields.io/badge/mybatis%20plus-red)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DC382D?logo=redis&labelColor=white&color=red)
-![jwt](https://img.shields.io/badge/jwt-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
+![jwt](https://img.shields.io/badge/JWT-white?logo=jsonwebtokens&logoColor=white&labelColor=blue&color=red)
+![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=social&logo=javascript&logoColor=%23F7DF1E&labelColor=white&color=%23F7DF1E)
+
 
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/-Python-white?&logo=Python&logoColor=%232496ED&labelColor=white&color=%232496ED)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=%232496ED&labelColor=white&color=%232496ED)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-red?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
+![antd](https://img.shields.io/badge/Ant%20Design-blue?logo=antdesign&logoColor=%230170FE&labelColor=white)
+![Vite](https://img.shields.io/badge/Vite-white?style=social&logo=vite&logoColor=%23646CFF&labelColor=white)
+![Npm](https://img.shields.io/badge/Npm-white?logo=npm&logoColor=%23CB3837&labelColor=white&color=%23CB3837)
+![pnpm](https://img.shields.io/badge/pnpm-white?logo=pnpm&labelColor=white&color=%23F69220)
+
 
 &emsp;&emsp;
-![idea](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=IntelliJ%20IDEA&logoColor=black)
-![webstorm](https://img.shields.io/badge/WebStorm-red?logo=WebStorm&logoColor=black)
+![IDEA](https://img.shields.io/badge/Intellij%20IDEA-blue?logo=intellijidea&logoColor=black)
+![webstorm](https://img.shields.io/badge/WebStorm-blue?logo=WebStorm&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![github](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)
 ![gitee](https://img.shields.io/badge/Gitee-red?logo=Gitee&logoColor=white)
 ![apifox](https://img.shields.io/badge/Apifox-red?logo=Apifox&logoColor=white)
-![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=blue&labelColor=white&color=blue)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-white?logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23F38020)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caolib&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caolib&theme=github_dark)
