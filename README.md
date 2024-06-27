@@ -40,7 +40,7 @@
 ![element+](https://img.shields.io/badge/element%2B-white?logo=e&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Felement-plus.org%2Fzh-CN%2Fcomponent%2Fbutton.html)
 ![antd](https://img.shields.io/badge/Ant%20Design-blue?logo=antdesign&logoColor=%230170FE&labelColor=white)
 ![Vite](https://img.shields.io/badge/Vite-white?style=social&logo=vite&logoColor=%23646CFF&labelColor=white)
-![Npm](https://img.shields.io/badge/Npm-white?logo=npm&logoColor=%23CB3837&labelColor=white&color=%23CB3837)
+![npm](https://img.shields.io/badge/npm-white?logo=npm&logoColor=%23CB3837&labelColor=white&color=%23CB3837)
 ![pnpm](https://img.shields.io/badge/pnpm-white?logo=pnpm&labelColor=white&color=%23F69220)
 
 
